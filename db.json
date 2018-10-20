@@ -1,17 +1,17 @@
 {
   "projetos": [
-	{"codigo":"2","projeto":"Casa"},
-	{"codigo":"1","projeto":"Compras"},
-	{"codigo":"4","projeto":"Carro"},
-	{"codigo":"3","projeto":"F\u00e9rias"}
+	{"id":"2","projeto":"Casa"},
+	{"id":"1","projeto":"Compras"},
+	{"id":"4","projeto":"Carro"},
+	{"id":"3","projeto":"F\u00e9rias"}
   ],
   "tarefas": [
-	{"codigo":"1","projeto":"2","descricao":"Consertar torradeira","data":"2018-02-20","prioridade":"3"},
-	{"codigo":"2","projeto":"4","descricao":"Abastecer carro com gasolina","data":"2018-04-29","prioridade":"1"},
-	{"codigo":"3","projeto":"2","descricao":"Limpar quarto","data":"2018-05-20","prioridade":"3"},		
-	{"codigo":"4","projeto":"3","descricao":"Fazer reservas do hotel","data":"2018-05-25","prioridade":"2"},
-	{"codigo":"5","projeto":"3","descricao":"Comprar passagens","data":"2018-05-19","prioridade":"1"},
-	{"codigo":"6","projeto":"1","descricao":"Comprar honda civic touring","data":"2018-12-04","prioridade":"1"},
-	{"codigo":"7","projeto":"2","descricao":"Faxina","data":"2018-09-13","prioridade":"3"}
+	{"id":"1","projeto":"2","descricao":"Consertar torradeira","data":"2018-02-20","prioridade":"3"},
+	{"id":"2","projeto":"4","descricao":"Abastecer carro com gasolina","data":"2018-04-29","prioridade":"1"},
+	{"id":"3","projeto":"2","descricao":"Limpar quarto","data":"2018-05-20","prioridade":"3"},		
+	{"id":"4","projeto":"3","descricao":"Fazer reservas do hotel","data":"2018-05-25","prioridade":"2"},
+	{"id":"5","projeto":"3","descricao":"Comprar passagens","data":"2018-05-19","prioridade":"1"},
+	{"id":"6","projeto":"1","descricao":"Comprar honda civic touring","data":"2018-12-04","prioridade":"1"},
+	{"id":"7","projeto":"2","descricao":"Faxina","data":"2018-09-13","prioridade":"3"}
   ]
 }
